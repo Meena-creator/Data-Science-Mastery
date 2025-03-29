@@ -1,1 +1,1 @@
-# Data-Science-Mastery
+# Data-Science-Mastery related resources
